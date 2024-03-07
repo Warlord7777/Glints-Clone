@@ -1,0 +1,52 @@
+.section-1 {
+    background-image: url('../img/js-hero.webp');
+    background-position: 10% 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 75vh !important;
+    color: white;
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, .5)
+}
+.btn-mulairekrut {
+    text-align: center;
+    background-color: #fff240;
+    font-size: 1.1em;
+    border-radius: 10px;
+    font-weight: 700;
+}
+.btn-mulairekrut:hover {
+    background-color: #fff240;
+    color: black;
+}
+.section-2-title {
+    color: yellow;
+    font-size: 2.6em;
+    font-weight: 700;
+}
+.cards-num {
+    /* background-size: 150px; */
+    background-size: 30%;
+    background-position: 100% 90%;
+    background-repeat: no-repeat;
+    height: 45vh !important;
+    width: 25vw;
+    background-color: white;
+}
+.cards-num-title{
+    color: #3394c1;
+}
+.card-footer {
+    border: none;
+    background-color: white;
+}
+.card {
+    border: none;
+}
+
+.card-img-top {
+    max-height: 330px !important;
+    border-radius: 7px;
+}
+a {
+    text-decoration: none;
+}

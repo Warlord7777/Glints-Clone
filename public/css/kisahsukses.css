@@ -1,0 +1,24 @@
+/*Isi*/
+.card{
+    border: none;
+}
+.card-img-top{
+    max-height: 330px !important;
+    border-radius: 7px;
+}
+.card-footer{
+    border:none;
+    background-color: white;
+}
+a{
+    text-decoration: none;
+}
+small{
+    cursor: pointer;
+}
+.hero{
+    background-image: url('../img/ks-1.jpg');
+    background-position: center;
+    border-radius: 10px;
+    box-shadow: inset 0 0 0 1000px rgba(32, 65, 96, 0.6);
+}

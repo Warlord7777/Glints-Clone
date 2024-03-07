@@ -1,0 +1,23 @@
+/* FORM */
+.button-form {
+    text-align: center;
+    background-color: #fff240;
+    font-size: 1.1em;
+    border-radius: 10px;
+    font-weight: 700;
+}
+
+.button-form:hover {
+    text-align: center;
+    background-color: #fff240;
+    font-size: 1.1em;
+    border-radius: 10px;
+    font-weight: 700;
+}
+.form-container{
+    background-image: url('../img/form-bg.jpg'); 
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-position: center; 
+    box-shadow: inset 0px 350px 200px -80px #204160;
+}

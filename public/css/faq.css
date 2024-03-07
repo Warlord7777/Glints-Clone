@@ -1,0 +1,30 @@
+/* isi  */
+.faq-button{
+    border: 3px solid #017eb7;
+    color: #017eb7;
+    background-color: transparent;
+    border-radius: 30px;
+    padding: 3% 10%;
+    font-weight: 600;
+    transition: .4s;
+    text-decoration: none;
+    user-select:none;
+}
+.faq-button:hover{
+    background-color: #017eb7;
+    color:white;
+}
+.arrow {
+    transition: transform .2s linear;
+    width: 2%;
+    user-select: none;
+}
+.text-drop{
+    font-weight: 400;
+}
+.show{
+    display: block !important;
+}
+.on{
+    transform: rotate(180deg);
+}

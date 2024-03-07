@@ -1,0 +1,183 @@
+.bulat {
+    border-radius: 50%;
+    text-align: left;
+}
+
+/* .se {
+    border-bottom: 1px solid black;
+    
+  } */
+a {
+    text-decoration: none;
+}
+
+.segment {
+    border-bottom: 1px solid black;
+    text-align: left;
+}
+
+
+input[type="file"] {
+    position: absolute;
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+input[type="text"] {
+    width: 100%;
+}
+
+
+label[for="uploadbtn"] {
+    display: inline-block;
+    background-color: whitesmoke;
+    color: rgb(40, 101, 255);
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 50%;
+    text-align: center;
+    border: 2px dashed rgb(25, 97, 253);
+}
+
+label[for="uploadbtn"]:hover {
+    background-color: rgb(238, 238, 245);
+}
+
+label[for="uploadbtnn"]:hover {
+
+    background-color: #077acc;
+    color: white;
+}
+
+label[for="uploadbtnn"] {
+    display: inline-block;
+    background-color: whitesmoke;
+    color: rgb(40, 101, 255);
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 50%;
+    text-align: center;
+    border: 2px solid #077acc;
+}
+
+
+button {
+    font-size: 1.2rem;
+}
+
+.penutup {
+    border-top: 1px solid black;
+    text-align: left;
+}
+
+.right-buttons {
+    display: flex;
+}
+
+.button-container {
+    text-align: right;
+}
+
+.right-button {
+    float: right;
+}
+
+.btn {
+    border: 2px solid #555;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #007acc;
+    background-color: #ffffff;
+    border: 2px solid #007acc;
+    border-radius: 0;
+}
+.box {
+
+
+    margin: 10px 0px;
+    text-align: center;
+}
+
+.container {
+    max-width: 50%;
+}
+
+.upload-label {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.profile-picture-container {
+    position: relative;
+    display: inline-block;
+}
+
+.profile-picture {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border-radius: 50%;
+    text-align: left;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    cursor: pointer;
+    border-radius: 50%;
+}
+
+.overlay:hover {
+    opacity: 1;
+}
+
+.overlay i {
+    color: #fff;
+    font-size: 24px;
+}
+
+.overlay span {
+    color: #fff;
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+
+/* yang kedua */
+.upload-label {
+    display: inline-block;
+    cursor: pointer;
+}
+
+.profile-picture-container {
+    position: relative;
+    display: inline-block;
+}
+
+.profile-picture {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.upload-button {
+
+    opacity: 0;
+
+}

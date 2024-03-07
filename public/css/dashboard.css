@@ -1,0 +1,18 @@
+.search{
+    width: 100%;
+}
+
+.loker{
+    transition: .2s;
+}
+
+.section-2{
+    border-top: 1px solid lightgrey;
+}
+.section-2-1 {
+    border-right: 1px solid lightgrey;
+}
+.number{
+    background-color: lightgray;
+    color: white;
+}

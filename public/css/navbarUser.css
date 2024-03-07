@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+@media only screen and (max-width: 180px) {
+    .navbar-brand {
+        display: none !important;
+    }
+}
+
+.offcanvas-body::-webkit-scrollbar {
+    width: 10px;
+}
+
+.offcanvas-body::-webkit-scrollbar-track {
+    background: #0171A4;
+    border-radius: 10px;
+}
+
+.offcanvas-body::-webkit-scrollbar-thumb {
+    background: #01557B;
+    border-radius: 10px;
+}
+.dropdown-menu{
+    width: 70px;
+}
+.dropdown-menu>li>a{
+    font-family: Poppins, "Helvetica Neue", Arial, Helvetica, sans-serif;
+    font-size: 0.7em;
+}
+.dropdown-menu>li>a:hover {
+    background: lightgray;
+    color: black;
+}
+.dropdown-menu>li>a:focus{
+    background: none;
+    color:black;
+}
+.offcanvas hr{
+    border: none;
+    color: #FFFFFF;
+    background-color: #FFFFFF;
+    height: 1.5px;
+}
+
+a{
+    text-decoration: none !important;
+}
+
+.offcanvas a {
+    color:white;
+}
+.hover:hover{
+    background-color: #0071a4;
+}
+
+.offcanvas{
+    width: 300px !important;
+}
+
+
+.profile_picture {
+    width: 40px;
+    height: 40px;
+}
+
+.profile_picture_offcanvas {
+    width: 60px;
+    height: 60px;
+}
+
+.username {
+    margin-right: 10px;
+}
+
+.username_arrow {
+    margin-right: 50px;
+}
+
+body {
+    font-family: Poppins, "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+
+.nav-item {
+    font-size: 0.75em;
+    font-weight: bold !important;
+}
+
+.navbar {
+    height: 71px !important;
+    width: 100vw;
+}
+
+.nav-main {
+    margin-left: 6%;
+}
+
+.navbar-toggler {
+    border: none !important;
+}
+
+.arrow{
+    transform: rotateX('180deg');
+    transition: 0.2s ease-in-out
+}
+.navbar-toggler:active,
+.navbar-toggler:focus {
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.offcanvas {
+    background-color: #017eb7 !important;
+}

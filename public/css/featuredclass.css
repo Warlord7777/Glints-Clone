@@ -1,0 +1,109 @@
+.box1{
+    width: 100%;
+    height: 360px;
+    background: linear-gradient(rgb(236, 236, 236) 65.1%, rgb(199, 199, 199) 100%);
+    background-blend-mode: multiply ;
+    padding: 16px ;
+    display: block;    
+}
+
+.isibox1{
+    padding-top: 30px;
+}
+
+.isibox1 .title{
+    font-weight: 700;
+    font-size: 26px;
+    width: 550px;
+    line-height: 38px;
+    padding-bottom: 20px;
+    
+}
+
+.isibox1 p {
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.subtitle{
+    font-size: 18px;
+    font-weight: bold;
+    padding-top: 80px;
+}
+
+.subtitle1 img {
+    width: 40%;
+}
+
+.box1 button {
+    border: none;
+    background-color: white;
+    border-radius: 20px;
+    color: grey;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.kategoripopuler{
+    color: rgb(240, 103, 48);
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 25px;
+    margin-top: 50px;
+  }
+
+  .fixed-card {
+    position: sticky;
+    top: 35%; /* Atur posisi vertikal card sticky */
+    /* transform: translateY(-50%); */
+    margin-left: 920px; /* Atur posisi horizontal card sticky */
+    margin-right: 30px;
+    height: 100px;
+}
+
+.fixed-card li {
+    line-height: 35px;
+    color: rgb(89, 89, 89);
+}
+
+.bluebutton{
+    border: none;
+    background-color: rgb(1, 126, 183);
+    color: white;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+  
+
+.subtitle2 p{
+    font-size: 12px;
+}
+
+.card3 .card-img-top {
+    height: 40%; 
+    object-fit: cover; 
+    object-position: 45% 70%; 
+    width: 20%; margin-top: 15px; 
+    margin-left: 15px;
+}
+
+.card-horizontal {
+    display: inline-block;
+    width: calc(50% - 10px);
+    margin-right: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  
+  .card-vertical {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  
+  

@@ -1,0 +1,276 @@
+button:focus {
+    outline: none;
+}
+.bton {
+    background-color :#ffffff  ;
+    color: #007acc;
+  border: none; 
+  padding: 6px 9px;
+  text-align: center; 
+  text-decoration: none; 
+  display: inline-block; 
+  font-size: 16px; 
+  cursor: pointer;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2); 
+}
+.bton:hover:hover {
+    background-color: #007acc;
+    color:  #ffffff; /* jika ingin mengubah warna teks */
+  
+    border: 1px dashed #fafafa;
+  } 
+
+.pojectprofil {
+    text-align: left;
+    height: 550px;
+    width: 300px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2); 
+    padding-left: 1em; 
+}
+.progress {
+    width: 90%;
+}
+.isiicon .fElmtI {
+    
+    float: right;
+    margin: 15px;
+    padding: 0px;
+    
+}
+.isiicon .fElmt1 {
+    margin: 1px;
+    padding-right: 0px;
+}
+a {
+    text-decoration: none;
+    color: #007acc;
+  }
+.aku {
+  text-decoration: none;
+  color: #b5b3b3;
+}
+
+  .index {
+    margin-top: 20px;
+
+    margin-bottom: 10px;
+   
+  }
+  .indexp {
+    margin-top: 20px;
+    
+  
+  
+   
+  }
+
+  .blur-text {
+   color: rgb(205, 205, 205);
+  }
+
+input [type="radio"] {
+    display: inline-block;
+}
+
+/* label {
+    display: inline-block;
+    position: relative;
+    padding-left: 25px;
+    margin-right: 15px;
+    cursor: pointer;
+    font-size: 18px;
+  }
+  
+  label:before {
+    content: "";
+    display: inline-block;
+    position: absolute;
+    left: 0;
+    top: 4px;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    border: 2px solid #ccc;
+  }
+  
+  label:after {
+    content: "";
+    display: inline-block;
+    position: absolute;
+    left: 5px;
+    top: 9px;
+    width: 8px;
+    height: 3px;
+    border-bottom: 2px solid #333;
+    transform: rotate(-45deg);
+    opacity: 0;
+  }
+  
+  input[type="radio"]:checked + label:before {
+    background-color: #4ea4ff;
+    border-color: #383838;
+  }
+  
+  input[type="radio"]:checked + label:after {
+    opacity: 1;
+  } */
+  
+  
+  .button-group {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .nav-link {
+    margin-right: 10px;
+  }
+
+  .segment {
+    border-bottom: 1px solid black;
+    
+  }
+  .btn {
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .bnt {
+    color: rgb(193, 191, 191);
+    background-color: white;
+    border: none; 
+    border-bottom: 1.5px solid black;
+  }
+  
+  .bnt:hover {
+    color: blue;
+    background-color: white;
+    border-bottom: 3px solid blue;
+  }
+  
+  .bnt:focus {
+    outline: none;
+  }
+  
+  
+
+  svg {
+    margin-right:0.3em;
+   
+  }
+  .container2 {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  /* .segment2 {
+    display: flex;
+    align-items: center;
+    
+  } */
+  
+  .icon-glints {
+    margin-right: 1em;
+    display: flex;
+    align-items: center;
+    
+  }
+  .col-2 {
+    height: 128px;
+  }
+  
+  .col-9 {
+    height: 64px;
+  }
+  .joblist {
+    color: #b5b3b3;
+  }
+  .upload-label {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+  
+  .profile-picture-container {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .profile-picture {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border-radius: 50%;
+    text-align: left;
+  }
+  
+  .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    cursor: pointer;
+    border-radius: 50%;
+  }
+  
+  .overlay:hover {
+    opacity: 1;
+  }
+  
+  .overlay i {
+    color: #fff;
+    font-size: 24px;
+  }
+  
+  .overlay span {
+    color: #fff;
+    font-size: 14px;
+    margin-top: 10px;
+  }
+
+
+  /* yang kedua */
+  .upload-label {
+    display: inline-block;
+    cursor: pointer;
+  }
+  
+  .profile-picture-container {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .profile-picture {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+  }
+  
+  .upload-button {
+   
+    opacity: 0;
+    
+  }
+    
+
+
+
+
+
+  
+  
+ 
+  
+  
+  
+  
+  

@@ -1,0 +1,67 @@
+.section-1 {
+    background-image: url('../img/fs-1.webp');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 75vh !important;
+    color: white;
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, .5)
+}
+.section-3{
+    background-image: url("https://cdn.builder.io/api/v1/image/assets%2F6aedcdfa7b4a48d6869d32835be21d2e%2Fb9f3415b70824e00a298710a5fd43745?width=2000");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.section-3-card{
+    background-color: #efefef;
+    border-radius: 10px;
+    width: 31%;
+    padding: 5%;
+}
+.tabs{
+    transition: .3s;
+    font-weight: bold;
+    height: 100% !important;
+}
+.tabs:hover{
+    color: white;
+    background-color: #0090b8;
+}
+.btn-konsultasi {
+    text-align: center;
+    background-color: #fff240;
+    font-size: 1.1em;
+    border-radius: 10px;
+    font-weight: 700;
+    border: none;
+    width: 30%;
+}
+.btn-pelajari{
+    border: 4px solid #0090b8;
+    background-color: white;
+    border-radius: 10px;
+    color: #0090b8;
+    font-weight: 600;
+}
+.card-1{
+    border: 3px solid #0090b8;
+    background-color: white;
+    width: 43%;
+    border-radius: 10px;
+}
+.card-1 ul {
+    columns: 2;
+}
+
+@media only screen and (max-width: 1206px) {
+    .card-1 ul {
+        columns: 1;
+    }
+}
+
+.card-2{
+    background-color: #0090b8;
+    color: white;
+    width: 43%;
+    border-radius: 10px;
+}

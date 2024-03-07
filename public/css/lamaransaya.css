@@ -1,0 +1,60 @@
+.container{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.pagetitle{
+    font-size: 25px;
+    font-weight: bold;
+    line-height: 28px;
+    margin-top: 60px;
+}
+
+.card2{
+    
+    background-color: rgb(247, 253, 255);
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(243, 243, 243);
+    padding-bottom: 118px;
+  }
+  
+  .card2 .card-title{
+    text-transform: capitalize;
+    font-size: 23px;
+    font-weight: bold;
+  }
+  
+  .card2 .card-text{
+    font-size: 20px;
+   
+  }
+  
+  .card2 .btn{
+    background-color: rgb(1, 126, 183);
+    color: white;
+    font-weight: bold;
+    border-radius: 0;
+    padding: 10px;
+  }
+
+  .card3{
+    
+    background-color: white;
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgb(243, 243, 243);
+    
+  }
+  
+  .card3 .card-title{
+    text-transform: capitalize;
+    font-size: 32px;
+    font-weight: bold;
+  }
+  
+  .card3 .card-text{
+    font-size: 16px;
+  }
+  
+ 

@@ -1,0 +1,15 @@
+.fw-bold{
+    font-weight: 600 !important;
+}
+.konfirmasi{
+    color: white;
+    background-color: #0090b8;
+    border: 2px solid #0090b8;
+    border-radius: 5px;
+    transition: .4s;
+}
+.konfirmasi:hover {
+    background-color: white;
+    color: #0090b8;
+    border: 2px solid #0090b8;
+}

@@ -1,0 +1,207 @@
+body{
+  background-color: rgba(241, 238, 238, 0.281) !important;
+}
+
+.fa-arrow-right:before{
+  content:none !important;
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(240, 120, 22)  ; 
+  padding: 20px;
+  height: 300px;
+}
+
+.flex-item {
+  flex: 3 0 calc(33.33% - 10px);
+  color: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  margin-top: 30px;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+.flex-item h2 {
+  font-size: 28px;
+  font-weight: bold;
+  text-align: center;
+  line-height: 50px;
+}
+
+.flex-item h1 {
+  font-size: 15px;
+  text-align: center;
+  line-height: 21px;
+}
+
+@media only screen and (max-width: 768px) {
+  .flex-item {
+      flex: 0 0 calc(50% - 10px);
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .flex-item {
+      flex: 0 0 100%;
+  }
+}
+
+.search-form {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  margin: 0 auto;
+  margin-top: 45px;
+  padding: 10px;
+  padding-right: 0;
+  height: 65px;
+  width: 750px;
+  background-color: #fff;
+  border-radius: 6px 6px 6px 6px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  justify-content: flex-end;
+}
+
+.search-input {
+  display: inline-block;
+}
+
+
+.search-form input[type="text"] {
+  flex: 1;
+  border: none;
+  font-size: 16px;
+  padding: 8px;
+  margin-right: 10px;
+  border-radius: 20px;
+  outline: none;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  font-family: 'Poppins', sans-serif;
+  color: rgba(168, 164, 164, 0.769);
+}
+::-moz-placeholder { /* Firefox 19+ */
+  font-family: 'Poppins', sans-serif;
+}
+:-ms-input-placeholder { /* IE 10+ */
+  font-family: 'Poppins', sans-serif;
+}
+:-moz-placeholder { /* Firefox 18- */
+  font-family: 'Poppins', sans-serif;
+}
+
+
+
+.search-form button[type="submit"] {
+  background-color: #1479bc;
+  color: #fff;
+  font-size: 16px;
+  border: none;
+  padding: 8px 20px;
+  height: 65px;
+  cursor: pointer;
+  outline: none;
+  margin-left: auto;
+  border-radius: 0px 6px 6px 0px;
+  width: 80px;
+}
+
+.fa-search {
+  font-size: 25px;
+}
+
+
+.search-form button[type="submit"]:hover {
+  background-color:#1479bcc4;
+}
+
+@media screen and (max-width: 768px) {
+  .search-form {
+    max-width: 100%;
+  }
+}
+
+.kategoripopuler{
+  color: rgb(240, 103, 48);
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  padding: 50px 75.9px 0px;
+  
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 20px 82px 0px;
+  padding-bottom: 50px;
+}
+
+.card {
+  /* margin: 10px; */
+  color: rgb(1, 126, 183);
+  font-family: 'Poppins', sans-serif;
+  width: 280px;
+  height: 100px;
+  background-color: rgb(255, 255, 255);;
+  box-shadow: rgba(45, 45, 45, 0.06) 0px 1px 1px !important;
+}
+
+.card-title{
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 4px;
+  display: flex;
+  margin-left: 0px;
+
+  
+}
+
+.card-text{
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.card img{
+  height: 100px;
+  width: 100px;
+  border-radius: 4px 0px 0px 4px;
+  
+}
+
+.card2{
+  margin-left: 53px;
+}
+
+.card2 .card-title{
+  text-transform: capitalize;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.card2 .card-text{
+  font-size: 16px;
+}
+
+.card2 .btn{
+  background-color: rgb(1, 126, 183);
+  color: white;
+  font-weight: bold;
+}
+
+.card3 img {
+  object-fit: cover;
+}
+
+
+
+

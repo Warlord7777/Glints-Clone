@@ -1,0 +1,137 @@
+@media (min-width: 992px) {
+    .main-title {
+        height: 580px !important;
+    }
+}
+
+@media (max-width: 991px) {
+    .main-title {
+        height: auto;
+        min-height: 580px;
+    }
+}
+
+.w-h-100 {
+    width: 100%;
+    height: 100%;
+}
+
+.section-3-title {
+    font-size: 3em;
+    font-weight: 600;
+}
+
+.partner-company-logo {
+    width: 70%;
+    height: 80%;
+    object-fit: contain;
+}
+
+
+
+.konsultasi {
+    color: white;
+    width: 284px;
+    height: 53px;
+    text-align: center;
+    background-color: #017eb7;
+    font-size: 1.1em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card-5-title {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #0490b8;
+}
+
+.card-5 {
+    color: black;
+    width: 90%;
+    text-align: center;
+    background-color: #fff240;
+    font-size: 1.1em;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.section_3 {
+    background-color: #e7f2f6;
+}
+
+.section_4_title {
+    font-weight: 700;
+    font-size: 1.5em;
+}
+
+@media (max-width: 991px) {
+    .section_6_button {
+        width: 90% !important;
+    }
+}
+
+.section_6_button {
+    color: black;
+    text-align: center;
+    background-color: #fff240;
+    font-size: 1.1em;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.investor-logo {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.img-container-7 {
+    background-image: url('../img/southeast-asia.png');
+    background-position: 110%;
+    background-repeat: no-repeat;
+}
+
+@media (max-width: 768px) {
+    .img-container-7 {
+        background-size: cover;
+        background-position: 10%;
+    }
+}
+
+.container-7 {
+    width: 58%;
+}
+
+@media (max-width: 991px) {
+    .container-7 {
+        width: 100%;
+    }
+}
+
+.card-footer {
+    background-color: white;
+    border: none;
+    margin-bottom: 4%;
+    color: #009cc6;
+    font-weight: 800;
+    font-size: 1em;
+}
+
+.img-8 {
+    object-fit: contain;
+    width: 65%;
+}
+.card {
+    height: 100% !important;
+}
+.card-footer{
+    background-color: none !important;
+}
+
+

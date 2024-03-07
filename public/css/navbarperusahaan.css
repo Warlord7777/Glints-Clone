@@ -1,0 +1,130 @@
+@media only screen and (max-width: 240px) {
+    .navbar-brand {
+        display: none !important;
+    }
+}
+.konsultasi {
+    color: white;
+    width: 284px;
+    height: 53px;
+    text-align: center;
+    background-color: #017eb7;
+    font-size: 1.1em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.offcanvas {
+    width: 350px !important;
+}
+nav ul{
+    columns: 1 !important;
+}
+.nav-item {
+    font-size: 0.85em;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 900;
+}
+.nav-link{
+    transition: .3s;
+}
+.nav-link:hover {
+    color: #60aed2 !important;
+}
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+}
+
+.dropdown-menu {
+    width: 70px;
+}
+
+.dropdown-menu>li>a {
+    font-family: Poppins, "Helvetica Neue", Arial, Helvetica, sans-serif;
+    font-size: .9em;
+}
+
+.dropdown-menu>li>a:hover {
+    background: lightgray;
+    color: black;
+}
+
+.dropdown-menu>li>a:focus {
+    background: none;
+    color: black;
+}
+
+.dropdown-item:hover {
+    transition: 0.3s;
+}
+
+.konsultasi-nav {
+    transition: 0.5s;
+}
+
+.konsultasi-nav:hover {
+    color:white !important;
+    box-shadow: 5px 5px 0 #2068bd;
+}
+
+.navbar {
+    height: 80px !important;
+    width: 100vw;
+    z-index: 999;
+}
+
+.nav-main {
+    margin-left: 6%;
+}
+
+.navbar-toggler {
+    border: none !important;
+}
+
+.navbar-toggler:active,
+.navbar-toggler:focus {
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.nav_title {
+    background-color: #f8f4f4;
+}
+
+.loker{
+    background-color: #017eb7;
+    color:white;
+    border: 2px solid #017eb7;
+    font-weight: 600;
+    border-radius: 5px;
+}
+
+.loker:hover{
+    color:#017eb7;
+    background-color: white;
+}
+
+.chat{
+    border: 2px solid lightgray;
+    border-radius: 5px;
+}
+
+.konsultasi-offcanvas {
+    color: white;
+    width: 280px;
+    height: 50px;
+    text-align: center;
+    background-color: #017eb7;
+    font-size: 1.1em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15px;
+}
+.profile_picture {
+    width: 40px;
+    height: 40px;
+}

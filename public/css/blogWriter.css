@@ -1,0 +1,491 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+*{
+  font-family: 'Poppins', sans-serif;
+}
+#div-CABEC37A {
+    padding-top: 86px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+#div-CABEC37A .profile {
+    text-align: center;
+    border-bottom: 1px solid #c6c6c6;
+    padding-bottom: 30px;
+}
+#div-CABEC37A .profile {
+    text-align: center;
+}
+#div-CABEC37A .profile .frame img {
+    border-radius: 64px;
+}
+#div-CABEC37A .profile {
+    text-align: center;
+}
+#div-CABEC37A .profile {
+    text-align: center;
+}
+#div-CABEC37A .profile .description b {
+    display: block;
+    margin-top: 16px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+}
+#div-CABEC37A .profile {
+    text-align: center;
+}
+#div-CABEC37A .profile .description i {
+    display: block;
+    margin-top: 8px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    color: #777;
+    font-style: normal;
+}
+#div-CABEC37A .profile {
+    text-align: center;
+}
+#div-CABEC37A h3 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+    margin: 0;
+      margin-top: 0px;
+      margin-bottom: 0px;
+    margin-top: 32px;
+    margin-bottom: 64px;
+}
+#div-CABEC37A hr {
+    width: 80px;
+    border: none;
+    border-bottom: 4px solid #017eb7;
+    position: absolute;
+}
+#div-CABEC37A ul {
+    list-style: none;
+    margin-left: -40px;
+}
+ol, ul {
+    box-sizing: border-box;
+}
+#div-CABEC37A ul {
+    list-style: none;
+}
+a {
+    color: #017EB7;
+}
+#div-CABEC37A ul a li {
+    text-decoration: none;
+    color: #000;
+}
+#div-CABEC37A ul li {
+    width: 400px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 32px;
+    margin-bottom: 32px;
+}
+element {
+    background-image: url('https://glints.com/id/lowongan/wp-content/uploads/2023/05/pexels-cedric-fauntleroy-4270082.jpg');
+    background-size: cover;
+    background-position: center center;
+}
+#div-CABEC37A ul li .frame {
+    width: 100%;
+    height: 216px;
+    overflow: hidden;
+}
+#div-CABEC37A ul a li {
+    color: #000;
+}
+#div-CABEC37A ul li i {
+    display: block;
+    margin-top: 24px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    color: #0baeec;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+#div-CABEC37A ul li b {
+    margin-top: 12px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+}
+#div-CABEC37A ul li span:nth-child(1) {
+    margin-top: 12px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+}
+#div-CABEC37A ul a li {
+    color: #000;
+}
+#div-CABEC37A ul li span:nth-child(2) {
+    margin-top: 12px;
+    margin-left: 18px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    color: #777;
+}
+#div-CABEC37A ul li p {
+    display: block;
+    font-family: 'Poppins', sans-serif;
+    color: #777;
+    font-size: 14px;
+    margin-top: 8px;
+    margin-bottom: 0px;
+    white-space: normal;
+    width: 400px;
+    height: 46px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.pagination {
+  height: 100px;
+  margin-bottom: 140px;
+}
+.pagination {
+  display: block;
+  height: 160px;
+  text-align: center;
+}
+.pagination a, .pagination a:link, .pagination a:visited, .pagination a:focus, .pagination a:hover, .pagination a:active {
+  width: auto;
+  margin-bottom: auto;
+}
+.pagination a, .pagination a:link, .pagination a:visited, .pagination a:focus, .pagination a:hover, .pagination a:active {
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  text-decoration: none;
+  text-transform: uppercase;
+  border: solid 2px #000;
+  background: white;
+  padding: 10px;
+  margin: 16px;
+}
+.pagination .next {
+  float: right;
+}
+a {
+  color: #017EB7;
+}
+.pagination {
+  text-align: center;
+}
+
+#footer {
+  display: grid;
+  background: black;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  }
+        
+  #footer .logo {
+  height: 50px;
+  }
+        
+  #footer button {
+  font-family: 'Poppins', sans-serif;
+  }
+        
+  #footer .list {
+  white-space: nowrap;
+  }
+        
+  #footer .list h5 {
+  font-weight: bold;
+  font-size: 14px;
+  text-transform: uppercase;
+   margin: 0;
+  }
+        
+  #footer .list ul {
+  list-style: none;
+  margin-left: -40px;
+  }
+        
+  #footer .list ul li {
+  margin-bottom: 16px;
+  }
+        
+  #footer .list ul li a {
+  text-decoration: none;
+  color: #777;
+  font-size: 14px;
+  }
+        
+  #footer .blue {
+  font-weight: bold;
+  font-size: 14px;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  background: #017eb7;
+  border: 2px solid #017eb7;
+  color: white;
+  text-transform: uppercase;
+  margin-top: 24px;
+  cursor: pointer;
+  }
+        
+  #footer .blue:hover {
+  opacity: 0.64;
+  }
+        
+  #footer .outline-white {
+  font-weight: bold;
+  font-size: 14px;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  background: black;
+  border: 2px solid white;
+  margin-right: 12px;
+  color: white;
+  text-transform: uppercase;
+  margin-top: 24px;
+  cursor: pointer;
+  }
+        
+  #footer .outline-white:hover {
+  background: white;
+  color: black;
+  }
+        
+  @media screen and (max-width: 599px) {
+  #footer {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  padding: 16px;
+  padding-bottom: 48px;
+  }
+        
+  #footer .main {
+  grid-column: span 2 / span 2;
+  }
+              
+  #footer .main .footer-cta {
+  margin-bottom: 32px;
+  }
+        
+  #footer .list {
+  width: 50%;
+  }
+  }
+            
+  @media screen and (min-width: 600px) and (max-width: 1259px) {
+  #footer {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 1rem;
+  padding: 16px;
+  padding-top: 32px;
+  padding-bottom: 48px;
+  }
+              
+  #footer .main {
+  grid-column: span 1 / span 1;
+  }
+        
+  #footer .main .footer-cta {
+  margin-bottom: 32px;
+  }
+        
+  #footer .blue {
+  margin-right: 4px;
+  }
+        
+  #footer .outline-white {
+  margin-right: 0px;
+  }
+  }
+        
+  @media screen and (min-width: 1260px) {
+  #footer {
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  padding: 40px;
+  }
+        
+  #footer .main .footer-cta {
+  display: inline-block;
+  }
+        
+  #footer .blue {
+  margin-right: 12px;
+  }
+        
+  #footer .outline-white {
+  margin-right: 12px;
+  }
+  }
+  #div-FAC394EB-mobile {
+  position: fixed;
+  background: rgba(0, 0, 0, 0.64);
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  }
+                  
+  #div-FAC394EB-mobile .body {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  background: white;
+  text-align: center;
+  }
+        
+  #div-FAC394EB-mobile i {
+  color: #93bd49;
+  font-size: 40px;
+  }
+        
+  #div-FAC394EB-mobile .body h5 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0;
+  width: 80%;
+  color: #93bd49;
+  margin-top: 16px;
+  margin-left: auto;
+  margin-right: auto;
+  }
+        
+  #div-FAC394EB-mobile .body input {
+  padding: 13px 15px;
+  border: solid 2px #777;                            
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;              
+  width: 90%;              
+  margin-top: 24px;                            
+  }
+        
+  #div-FAC394EB-mobile .body button {          
+  background: white;              
+  padding: 10px 20px;              
+  color: #c6c6c6;              
+  text-transform: uppercase;              
+  font-family: 'Poppins', sans-serif;              
+  font-size: 14px;              
+   font-weight: bold;             
+  border: solid 2px #c6c6c6;
+  margin-top: 24px;
+  }
+        
+  @media screen and (max-width: 1259px) {          
+  #div-FAC394EB-mobile .body {
+  width: 80%;                               
+  padding: 16px;                  
+  }
+  }
+        
+  @media screen and (min-width: 1260px) {
+  #div-FAC394EB-mobile .body {
+  width: 432px;
+  padding: 32px;
+  }
+  }
+  #div-07B9CD0E-mobile {
+  position: fixed;
+  background: rgba(0, 0, 0, 0.64);
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  }
+        
+  #div-07B9CD0E-mobile .body {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  background: white;
+  text-align: center;
+  }
+        
+  #div-07B9CD0E-mobile i {
+  color: #93bd49;
+  font-size: 40px;
+  }
+        
+  #div-07B9CD0E-mobile .body h5 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0;
+  width: 80%;
+  margin-top: 16px;
+  margin-left: auto;
+  margin-right: auto;
+  }
+        
+  #div-07B9CD0E-mobile .body input {
+  padding: 13px 15px;
+  border: solid 2px #777;
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+  width: 90%;
+  margin-top: 24px;
+  }
+        
+  #div-07B9CD0E-mobile .body button {
+  background: white;
+  padding: 10px 20px;              
+  color: #c6c6c6;              
+  text-transform: uppercase;              
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;              
+  font-weight: bold;              
+  border: solid 2px #c6c6c6;              
+  margin-top: 24px;              
+  }
+        
+  @media screen and (max-width: 1259px) {
+  #div-07B9CD0E-mobile .body {
+  width: 80%;
+  padding: 16px;
+  }
+  }
+        
+  @media screen and (min-width: 1260px) {
+  #div-07B9CD0E-mobile .body {
+  width: 432px;
+  padding: 32px;
+  }
+  }
+  a {
+  text-decoration: none;
+  }
+        
+  .other-btn {
+  color: #017eb7;
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  text-transform: uppercase;
+  border: solid 2px #017eb7;
+  background: white;
+  padding: 10px;
+  display: block;
+  float: left;              
+  width: 270px;
+  cursor: pointer;                            
+  }
+        
+  .other-btn:hover {          
+  background: #017eb7;              
+  color: white;              
+  }
+        
+  .other-btn.centered {          
+  float: none;              
+  margin-left: auto;              
+  margin-right: auto;              
+  }
